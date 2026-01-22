@@ -13,6 +13,8 @@ This repository contains a collection of Tableau dashboards and stories showcasi
 **File:** `HR Analytics Dashboard/HR Analytics Dashboard.twb`  
 **Preview:** `HR Analytics Dashboard/HR Analytics Dashboard.png`
 
+![HR Analytics Dashboard](HR%20Analytics%20Dashboard/tableau-hr-dash.svg)
+
 A comprehensive HR analytics dashboard focused on employee attrition analysis and workforce insights.
 
 #### Data Source
@@ -55,6 +57,8 @@ A comprehensive HR analytics dashboard focused on employee attrition analysis an
 
 **File:** `Modern HR Dashboard/Modern HR Dashboard.twb`  
 **Preview:** `Modern HR Dashboard/Modern HR Dashboard.png`
+
+![Modern HR Dashboard](Modern%20HR%20Dashboard/tableau-modern-hr-dash.svg)
 
 A modern, interactive HR dashboard providing comprehensive workforce analytics with advanced visualizations.
 
@@ -115,6 +119,8 @@ A modern, interactive HR dashboard providing comprehensive workforce analytics w
 - `3.Titanic Passenger Age & Fare Analysis.png`
 - `4.Titanic Passenger Survivor Geography.png`
 - `5.Titanic Passenger Survivor List.png`
+
+![Titanic Survivor Story](Who%20Survived%20Titanic%20Tragedy%20Story/tableau-titanic-story.svg)
 
 An interactive Tableau story that narrates the analysis of Titanic passenger data, exploring survival patterns and demographics.
 
