@@ -13,7 +13,7 @@ This repository contains a collection of Tableau dashboards and stories showcasi
 **File:** `HR Analytics Dashboard/HR Analytics Dashboard.twb`  
 **Preview:** `HR Analytics Dashboard/HR Analytics Dashboard.png`
 
-![HR Analytics Dashboard](HR%20Analytics%20Dashboard/tableau-hr-dash.svg)
+![HR Analytics Dashboard](HR%20Analytics%20Dashboard/tableau-hr-dashboard.svg)
 
 A comprehensive HR analytics dashboard focused on employee attrition analysis and workforce insights.
 
@@ -58,7 +58,7 @@ A comprehensive HR analytics dashboard focused on employee attrition analysis an
 **File:** `Modern HR Dashboard/Modern HR Dashboard.twb`  
 **Preview:** `Modern HR Dashboard/Modern HR Dashboard.png`
 
-![Modern HR Dashboard](Modern%20HR%20Dashboard/tableau-modern-hr-dash.svg)
+![Modern HR Dashboard](Modern%20HR%20Dashboard/tableau-modern-hr-dashboard.svg)
 
 A modern, interactive HR dashboard providing comprehensive workforce analytics with advanced visualizations.
 
