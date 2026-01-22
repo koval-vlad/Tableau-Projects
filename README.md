@@ -2,6 +2,10 @@
 
 This repository contains a collection of Tableau dashboards and stories showcasing data visualization and analytics capabilities. The repository includes 2 comprehensive HR analytics dashboards and 1 interactive data story about the Titanic tragedy.
 
+- **HR Analytics Dashboard integrated demo**: [https://koval-vlad-portfolio.vercel.app/tableau/hr-analytics-dashboard](https://koval-vlad-portfolio.vercel.app//tableau/hr-analytics-dashboard)
+- **Modern HR Dashboard integrated demo**: [https://koval-vlad-portfolio.vercel.app/tableau/modern-hr-dashboard](https://koval-vlad-portfolio.vercel.app//tableau/modern-hr-dashboard)
+- **Titanic Survivor Story integrated demo**: [https://koval-vlad-portfolio.vercel.app/tableau/titanic-survivor-story](https://koval-vlad-portfolio.vercel.app//tableau/titanic-survivor-story)
+
 ## 📊 Projects Overview
 
 ### 1. HR Analytics Dashboard
